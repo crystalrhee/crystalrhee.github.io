@@ -28,8 +28,8 @@ body {
 }
 
 .wrapper {
-  background: #ed9d9d;
-  background: linear-gradient(to bottom right, #ed9d9d 0%, #ffe9e9 100%);
+  background: #3f72af;
+  background: linear-gradient(to bottom right, #3f72af 0%, #ffe9e9 100%);
   position: absolute;
   height: 100%;
   left: 0;
@@ -57,7 +57,7 @@ body {
   background-color: white;
   border: 0;
   padding: 10px 15px;
-  color: #ed9d9d;
+  color: #3f72af;
   border-radius: 3px;
   width: 250px;
   font-size: 18px;
@@ -68,7 +68,7 @@ body {
 }
 
 .button:hover {
-  background-color: #ffe9e9;
+  background-color: #dbe2ef;
 }
 
 .bg-bubbles {
